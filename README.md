@@ -44,10 +44,8 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ripperony/count.svg" />
 </p>
 
 -----
-Credits: [Shwetang550](https://github.com/Shwetang550)
 
-Last Edited on: 15/01/2021
