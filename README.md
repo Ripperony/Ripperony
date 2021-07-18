@@ -6,7 +6,10 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Javascript. 
+- 🌱  Javascript
+- 🌱  C#
+- 🌱  Fullstack Web Design
+- 🌱  Reverse Engineering / SysAdmin
 
 
 ***
