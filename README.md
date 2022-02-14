@@ -9,7 +9,7 @@
 - 🌱  Javascript
 - 🌱  C#
 - 🌱  Fullstack Web Design
-- 🌱  Reverse Engineering / SysAdmin
+- 🌱  SysAdmin
 
 
 ***
