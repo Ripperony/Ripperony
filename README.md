@@ -22,6 +22,8 @@
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1200px-Apache_HTTP_server_logo_%282019-present%29.svg.png"></code>](https://httpd.apache.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/800px-Debian-OpenLogo.svg.png"></code>](https://www.debian.org/)
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg"></code>](https://www.centos.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>](https://expressjs.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>](https://atom.io/)
@@ -33,6 +35,10 @@
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactjs.org/)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactnative.dev/)
 [<code><img height="20" src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png"></code>](https://mobaxterm.mobatek.net/)
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1920px-Microsoft_Azure_Logo.svg.png"></code>](https://azure.microsoft.com/)
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png"></code>](https://www.docker.com/)
+[<code><img height="12" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"></code>](https://www.vmware.com/)
+
 
 </p>
 
