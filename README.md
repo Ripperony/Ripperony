@@ -35,9 +35,9 @@
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactjs.org/)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>](https://reactnative.dev/)
 [<code><img height="20" src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png"></code>](https://mobaxterm.mobatek.net/)
-[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1920px-Microsoft_Azure_Logo.svg.png"></code>](https://azure.microsoft.com/)
-[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1920px-Docker_%28container_engine%29_logo.svg.png"></code>](https://www.docker.com/)
-[<code><img height="12" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"></code>](https://www.vmware.com/)
+[<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/873/873107.png"></code>](https://azure.microsoft.com/)
+[<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"></code>](https://www.docker.com/)
+[<code><img height="20" src="https://cdn-icons.flaticon.com/png/512/5627/premium/5627123.png?token=exp=1654742912~hmac=766f65ab29f85439c652912349401e79"></code>](https://www.vmware.com/)
 
 
 </p>
