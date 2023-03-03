@@ -42,7 +42,7 @@
 
 </p>
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=gin)
+![My Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gin)
 
 
 -----
