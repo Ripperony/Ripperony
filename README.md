@@ -12,16 +12,17 @@
   Admin & Owner of @Teamholy.de https://teamholy.de/
 </div>
 </div>
-<p align="center"> 
-  Visitor count (Besucher)<br>
-  <img src="https://profile-counter.glitch.me/gin337/count.svg" />
-  
-  <p align="center"> 
-    
 
-
-
-</p>
+<div align="center">
+  <div style="display:flex; flex-direction: columm;"> 
+  <div>
+    Visitor count (Besucher)
+  </div>
+ <div>
+    <img src="https://profile-counter.glitch.me/gin337/count.svg" />
+ </div>
+  </div>
+</div>
 
 
 
